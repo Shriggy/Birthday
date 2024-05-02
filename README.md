@@ -32,5 +32,4 @@
    - **Conclusions**
      The Birthday Reminder Program offers a practical solution for organizing and remembering important birthdays. Its intuitive interface and robust functionality make it an indispensable tool for users seeking to stay on top of their birthday reminders. Future enhancements could include implementing notification features and expanding the program's capabilities for managing other types of events.
 
-4. **Optional: Resources, references list**
-   No additional resources or references were consulted during the development of this program.
+
